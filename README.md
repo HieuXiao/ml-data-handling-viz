@@ -1,1 +1,1 @@
-# dataviz-2025
+# data-visualization-ml
