@@ -1,0 +1,60 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+### Virtual Environments ###
+# Thư mục môi trường ảo (đã tạo qua terminal hoặc PyCharm)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+### Jupyter Notebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# Nếu bạn không muốn lưu file log của Jupyter
+.virtual_documents/
+
+### PyCharm / JetBrains ###
+# Các cấu hình cá nhân của IDE không nên đẩy lên repo
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### OS specific ###
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+### Data (Tùy chọn) ###
+# Nếu bạn có dữ liệu lớn, hãy uncomment dòng dưới để tránh đẩy lên GitHub
+# *.csv
+# *.json
+# *.sql
+# data/
