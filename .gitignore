@@ -21,7 +21,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-echo "*.pkl" >> .gitignore
+*.pkl
 
 ### Virtual Environments ###
 # Thư mục môi trường ảo (đã tạo qua terminal hoặc PyCharm)

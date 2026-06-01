@@ -1,0 +1,46 @@
+[
+  {
+    "name": {
+      "common": "Viet Nam"
+    },
+    "cca2": "VN",
+    "region": "Asia",
+    "capital": [
+      "Hanoi"
+    ],
+    "population": 98186856
+  },
+  {
+    "name": {
+      "common": "Thailand"
+    },
+    "cca2": "TH",
+    "region": "Asia",
+    "capital": [
+      "Bangkok"
+    ],
+    "population": 71697030
+  },
+  {
+    "name": {
+      "common": "Singapore"
+    },
+    "cca2": "SG",
+    "region": "Asia",
+    "capital": [
+      "Singapore"
+    ],
+    "population": 5685807
+  },
+  {
+    "name": {
+      "common": "Japan"
+    },
+    "cca2": "JP",
+    "region": "Asia",
+    "capital": [
+      "Tokyo"
+    ],
+    "population": 125836021
+  }
+]
