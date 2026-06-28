@@ -1,0 +1,4 @@
+Header 0: ['DỮ LIỆU BÁN HÀNG 2025 (CHUỖI ĐIỆN MÁY ABC)', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7']
+Header 1: ['Bảng tidy: mỗi dòng là 1 tổ hợp Tháng × Chi nhánh × Nhóm hàng. Tiền tệ: triệu đồng (trđ). 192 dòng dữ liệu.', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7']
+Header 2: ['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7']
+Header 3: ['Tháng', 'Quý', 'Chi nhánh', 'Nhóm hàng', 'Số đơn hàng', 'Doanh thu (trđ)', 'Chi phí QC (trđ)', 'Khách hàng mới']
